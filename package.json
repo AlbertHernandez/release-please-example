@@ -1,6 +1,6 @@
 {
   "name": "release-please-example",
-  "version": "1.14.7",
+  "version": "0.0.1",
   "description": "Example of how to use release-please to release node libraries to NPM",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
