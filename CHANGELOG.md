@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/AlbertHernandez/release-please-example/compare/v1.0.0...v1.0.1) (2024-06-29)
+
+
+### Bug Fixes
+
+* specify registry url ([b767e51](https://github.com/AlbertHernandez/release-please-example/commit/b767e514762f32feedb57c2be5f5a53a5c3de363))
+
 ## 1.0.0 (2024-06-29)
 
 
