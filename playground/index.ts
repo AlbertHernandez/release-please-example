@@ -1,10 +1,3 @@
-import { isPositiveNumber } from "../src";
+import { sayHelloWorld } from "../src";
 
-const value = 2;
-
-const result = {
-  value,
-  isPositiveNumber: isPositiveNumber(value),
-};
-
-console.log(result);
+sayHelloWorld();
