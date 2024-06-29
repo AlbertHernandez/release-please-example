@@ -1,23 +1,23 @@
 {
-  "name": "typescript-library-template-example",
+  "name": "release-please-example",
   "version": "1.14.7",
-  "description": "Template for new typescript libraries",
+  "description": "Example of how to use release-please to release node libraries to NPM",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": "alberthernandezdev@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlbertHernandez/typescript-library-skeleton/issues"
+    "url": "https://github.com/AlbertHernandez/release-please-example/issues"
   },
-  "homepage": "https://github.com/AlbertHernandez/typescript-library-skeleton#readme",
+  "homepage": "https://github.com/AlbertHernandez/release-please-example#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlbertHernandez/typescript-library-skeleton.git"
+    "url": "git+https://github.com/AlbertHernandez/release-please-example.git"
   },
   "keywords": [
     "typescript",
     "library",
-    "template"
+    "release-please"
   ],
   "engines": {
     "node": ">=18.0.0",
